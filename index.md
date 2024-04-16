@@ -27,7 +27,14 @@ My first ever program was `System.out.println("Hello World");` and now I'm out h
 
 Here is my favourite picture from Spring Break in Cancun!!
 
-![Pictures of Cancun.](IMG_8466.JPG)
+![Pictures of Cancun.](Cancun.JPG)
+
+### Top 5 Places I have travelled to in the last 12 months : 
+1. Cancun
+2. Singapore
+3. Utah
+4. Washington
+5. Chicago
 
 
 

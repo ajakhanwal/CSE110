@@ -2,7 +2,7 @@
 ## Welcome to my User Page
 I am a third year Math - CS student at UC San Diego. I am an international student from [Mumbai](https://www.gettyimages.com/photos/mumbai). Studying in California was a dream for me ever since my sister went to a UC school. This is me living _my dream life_. 
 
-Read more about my [Academic Background](#academic-background) Academic Background and Personal Background
+Read more about my [Academic Background](#academic-background) and [Personal Background](#personal-background)
 
 ## Academic Background
 ### Context 

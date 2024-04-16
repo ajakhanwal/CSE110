@@ -24,9 +24,11 @@ My first ever program was `System.out.println("Hello World");` and now I'm out h
 ## Personal Background 
 > I **LOVE** travelling and photography.
 
-Here are my favourite pictures from Winter and Spring Break in Singapore and Cancun!!
 
-![Pictures of Cancun.](C:\Users\anieA\Downloads\IMG_5642.jpg)
+Here is my favourite picture from Spring Break in Cancun!!
+
+![Pictures of Cancun.](IMG_8466.JPG)
+
 
 
   

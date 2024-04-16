@@ -2,6 +2,8 @@
 ## Welcome to my User Page
 I am a third year Math - CS student at UC San Diego. I am an international student from [Mumbai](https://www.gettyimages.com/photos/mumbai). Studying in California was a dream for me ever since my sister went to a UC school. This is me living _my dream life_. 
 
+Read more about my Academic Background and Personal Background
+
 ## Academic Background
 ### Context 
 > I started coding as a class requirement in 8th grade but now I choose to take college CS classes so I guess I really do like it :P
@@ -29,12 +31,7 @@ Here is my favourite picture from Spring Break in Cancun!!
 
 ![Pictures of Cancun.](Cancun.JPG)
 
-### Top 5 Places I have travelled to in the last 12 months : 
-1. Cancun
-2. Singapore
-3. Utah
-4. Washington
-5. Chicago
+### Find the top 5 Places I have travelled to in the last 12 months : here
 
 
 

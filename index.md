@@ -31,7 +31,7 @@ Here is my favourite picture from Spring Break in Cancun!!
 
 ![Pictures of Cancun.](Cancun.JPG)
 
-### Find the top 5 Places I have travelled to in the last 12 months : [here](/)
+### Find the top 5 Places I have travelled to in the last 12 months : [here](ListOfPlaces.md)
 
 
 
